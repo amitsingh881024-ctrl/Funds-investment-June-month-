@@ -1,0 +1,11 @@
+Investor,Investment_Type,Amount_Original,Currency,FX_Rate_to_INR,Shares_Issued,CurrentPrice_perShare
+John Doe,Equity Fund,10000,USD,83.12,0,0
+Jane Smith,Mutual Fund,5000,USD,83.12,100,52.50
+Alice Johnson,Bond Fund,8000,EUR,89.45,0,0
+Bob Wilson,Equity Fund,15000,USD,83.12,200,95.25
+John Doe,Bond Fund,7000,EUR,89.45,0,0
+Jane Smith,Tech Stocks,12000,USD,83.12,150,88.40
+Charlie Brown,Real Estate Fund,20000,USD,83.12,250,85.60
+Alice Johnson,Gold Fund,6000,USD,83.12,80,78.75
+Bob Wilson,Crypto Fund,3000,USD,83.12,0,0
+Charlie Brown,International Fund,9000,EUR,89.45,120,92.30
